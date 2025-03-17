@@ -68,4 +68,5 @@ This project is licensed under the MIT License. You are free to modify and use i
 Contributions are welcome. If you have suggestions for improvements, feel free to submit a pull request.
 
 ## Contact
-For inquiries or collaboration opportunities, reach out via email at **mohithvarunr@gmail.com** or visit [GitHub]((https://github.com/MohithVarun)).
+For inquiries or collaboration opportunities, reach out via email at **mohithvarunr@gmail.com** or visit [GitHub](https://github.com/MohithVarun)
+.
